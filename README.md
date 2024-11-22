@@ -45,20 +45,6 @@ java Server
 In a new terminal or command prompt, run:
 ```java Client```
 
----
-
-## Commands
-
-Here are the commands users can issue to interact with the budget tracker:
-
-### 1. ADD `<amount>` `<detail>`
-Logs an expense for the current user, specifying the amount and a brief description.
-
-- **Purpose**: Add an expense.
-- **Syntax**: 
-  ```ADD <amount> <detail>```
-
-  
 ### ---
 
 ## Commands
@@ -70,8 +56,7 @@ Logs an expense for the current user, specifying the amount and a brief descript
 
 - **Purpose**: Add an expense.
 - **Syntax**: 
-  ```plaintext
-  ADD <amount> <detail>
+  ```ADD <amount> <detail>```
 
 ### 2. VIEW
 Displays all expenses logged by the current user, along with their total balance.
