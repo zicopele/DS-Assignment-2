@@ -45,7 +45,7 @@ java Server
 In a new terminal or command prompt, run:
 ```java Client```
 
-### ---
+---
 
 ## Commands
 
