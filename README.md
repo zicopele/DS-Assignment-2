@@ -36,7 +36,7 @@ Open a terminal or command prompt, navigate to the directory containing the file
 Run the following command to start the RMI registry and the server:
 
 ```
-rmiregistry
+rmiregistry 1200
 java Server
 ```
 
